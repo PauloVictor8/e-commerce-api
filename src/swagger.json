@@ -1,4 +1,5 @@
 {
+    "openapi": "3.0.o",
     "title": "E-commerce-API",
     "version": "1.0.0",
     "description": "This is an API for ecommerce websites",
