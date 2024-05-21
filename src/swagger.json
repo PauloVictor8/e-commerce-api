@@ -1,13 +1,16 @@
 {
     "openapi": "3.0.o",
-    "title": "E-commerce-API",
-    "version": "1.0.0",
-    "description": "This is an API for ecommerce websites",
-    "contact": {
-        "name": "Victor",
-        "email": "paulo9.victor.silva@gmail.com"
+    "info": {
+        "title": "E-commerce-API",
+        "version": "1.0.0",
+        "description": "This is an API for ecommerce websites",
+        "contact": {
+            "name": "Victor",
+            "email": "paulo9.victor.silva@gmail.com"
+        },
+        "licence": {
+            "name": "MIT"
+        }
     },
-    "licence": {
-        "name": "MIT"
-    }
+    "version": "1.0.0"
 }
